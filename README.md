@@ -17,3 +17,6 @@ hexadecimal form of 720 is 32'h 2d0
 
 ![a8](https://user-images.githubusercontent.com/114133847/201176935-2395c208-2f84-41f0-8c3d-3e8f9a895afd.png)
 ![a9](https://user-images.githubusercontent.com/114133847/201176946-27f2168a-7ebf-4d49-bd7e-a1f26ae7e056.png)
+
+![IMG_20230704_100441](https://github.com/Palavelli-Naidu/MIPS32/assets/114133847/a01757d9-077f-4f53-a812-2dd7d580a2b6)
+
